@@ -1,0 +1,34 @@
+.footer .logo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: var(--text-color);
+}
+
+.footer .logo img {
+    width: 50%;
+}
+
+.company, .links, .contacts {
+    padding-top: 1rem;
+}
+
+.company {
+    margin-left: 5rem;
+}
+
+.links {
+    margin-left: 2rem;
+}
+
+.quick-links li a, .contact-links li a {
+    text-decoration: none;
+    color: var(--text-color);
+    font-size: 1.2rem;
+}
+
+.socials span a {
+    text-decoration: none;
+    color: var(--heading-color);
+}

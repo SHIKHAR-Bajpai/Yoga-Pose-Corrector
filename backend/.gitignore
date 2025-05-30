@@ -1,0 +1,23 @@
+# Virtual Env
+v/
+
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Model training and data
+model_training/
+
+# Environment files (if any)
+.env
+
+# DB instances
+instance/
+
+# Migrations
+migrations/

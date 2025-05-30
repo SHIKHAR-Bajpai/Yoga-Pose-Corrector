@@ -1,0 +1,51 @@
+{
+  "name": "yoga-pose-checker",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@mediapipe/pose": "^0.5.1675469404",
+    "@radix-ui/react-checkbox": "^1.2.3",
+    "@radix-ui/react-label": "^2.1.4",
+    "@radix-ui/react-select": "^2.2.2",
+    "@radix-ui/react-slot": "^1.2.0",
+    "@radix-ui/react-switch": "^1.2.2",
+    "@tensorflow/tfjs": "^4.22.0",
+    "axios": "^1.7.7",
+    "class-variance-authority": "^0.7.1",
+    "framer-motion": "^12.9.2",
+    "jwt-decode": "^4.0.0",
+    "loadash": "^1.0.0",
+    "lucide-react": "^0.503.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.5.0",
+    "react-router-dom": "^6.27.0",
+    "socket.io-client": "^4.8.1"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "@types/react": "^18.3.10",
+    "@types/react-dom": "^18.3.0",
+    "@types/styled-components": "^5.1.34",
+    "@vitejs/plugin-react": "^4.3.2",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.11.1",
+    "eslint-plugin-react": "^7.37.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.12",
+    "globals": "^15.9.0",
+    "install": "^0.13.0",
+    "npm": "^11.3.0",
+    "postcss": "^8.4.47",
+    "styled-components": "^6.1.17",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.8"
+  }
+}
