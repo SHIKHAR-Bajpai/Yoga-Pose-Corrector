@@ -21,3 +21,6 @@ instance/
 
 # Migrations
 migrations/
+
+# Testing data
+test_data/
