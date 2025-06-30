@@ -36,7 +36,7 @@ The frontend (not shown here) is built using **React**, and provides a clean UI 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/spidyshivam/Yoga-Pose-Correction-System.git
+git clone https://github.com/SHIKHAR-Bajpai/Yoga-Pose-Corrector.git
 cd yoga-pose-detector
 ```
 
