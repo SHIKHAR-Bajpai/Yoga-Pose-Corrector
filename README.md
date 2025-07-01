@@ -1,6 +1,6 @@
-# 🧘 Yoga Pose Detection System
+# 🧘 Yoga Pose Corrector System
 
-This is a full-stack Yoga Pose Detection System built using **Flask** for the backend and **React** for the frontend. It uses **MediaPipe**, **OpenCV**, and machine learning techniques to identify and analyze yoga poses in real-time.
+This is a full-stack Yoga Pose Detection and Corrector System built using **Flask** for the backend and **React** for the frontend. It uses **MediaPipe**, **OpenCV**, **Artificial Intelligence (AI)** and **Machine Learning (ML)** techniques to identify and analyze yoga poses in real-time.
 
 ---
 
