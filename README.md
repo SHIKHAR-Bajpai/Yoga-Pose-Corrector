@@ -1,6 +1,6 @@
-# 🧘 Yoga Pose Detection System
+# 🧘 Yoga Pose Corrector System
 
-This is a full-stack Yoga Pose Detection System built using **Flask** for the backend and **React** for the frontend. It uses **MediaPipe**, **OpenCV**, and machine learning techniques to identify and analyze yoga poses in real-time.
+This is a full-stack Yoga Pose Detection and Corrector System built using **Flask** for the backend and **React** for the frontend. It uses **MediaPipe**, **OpenCV**, **Artificial Intelligence (AI)** and **Machine Learning (ML)** techniques to identify and analyze yoga poses in real-time.
 
 ---
 
@@ -36,7 +36,7 @@ The frontend (not shown here) is built using **React**, and provides a clean UI 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/spidyshivam/Yoga-Pose-Correction-System.git
+git clone https://github.com/SHIKHAR-Bajpai/Yoga-Pose-Corrector.git
 cd yoga-pose-detector
 ```
 
