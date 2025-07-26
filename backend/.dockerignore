@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env
+instance/
+.vscode/
+test_data/
+migrations/
+v/
+model_training/
