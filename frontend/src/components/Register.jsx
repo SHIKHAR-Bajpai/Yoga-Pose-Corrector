@@ -1,6 +1,7 @@
 import { useState , useEffect } from 'react';
 import { useNavigate } from 'react-router-dom';
 import Loader from '@/components/ui/loader-one.jsx';
+const API_URL = import.meta.env.VITE_API_URL;
 
 const RegisterForm = () => {
   const [name, setName] = useState('');
@@ -20,7 +21,7 @@ const RegisterForm = () => {
     const registrationData = { name, email, password };
 
     try {
-      const response = await fetch('http://localhost:5000/register', {
+      const response = await fetch(`${API_URL}/register`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(registrationData),
@@ -42,7 +43,7 @@ const RegisterForm = () => {
   };
 
   const handleSocialLogin = (provider) => {
-    const backendUrl = `http://localhost:5000/register/${provider}`;
+    const backendUrl = `${API_URL}/register/${provider}`;
     window.location.href = backendUrl;
   };
 

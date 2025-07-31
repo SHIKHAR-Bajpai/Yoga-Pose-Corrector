@@ -1,5 +1,5 @@
 import { useState } from "react";
-import yogaPosesData from '../assets/poses_cleaned.json';
+import yogaPosesData from '../assets/poses.json';
 import YogaPoseModal from "./YogaPoseModal";
 import { jwtDecode } from "jwt-decode";
 

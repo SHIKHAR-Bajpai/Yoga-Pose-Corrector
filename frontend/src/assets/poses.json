@@ -14,7 +14,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/BoatFull.png"
+    "src": "/poses/BoatFull.png"
   },
   {
     "description": "From a standing position, the feet are together and rooted into the earth with toes actively lifted.  The knees are bent and the weight of the body is on the heels of the feet.  The pelvis is tucked in and the ribcage is lifted.  The neck is a natural extension of the spine.  The arms are lifted up toward the sky with the elbows straight and the biceps by the ears.  The hands can be together or separated and facing each other with the fingers spread wide.  The gaze is forward.",
@@ -31,7 +31,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Chair.png"
+    "src": "/poses/Chair.png"
   },
   {
     "description": "Begin by lying face down with your legs extended behind you, hip-width apart and the tops of your feet rested.  Spread your fingers wide and place your hands under your shoulders with your fingers pointing toward the top of the mat.  Hug your elbows into the sides of your body.  Press down through the tops of your feet and lift your head and chest off the floor.  Keep your lower ribs on the floor.  Draw your shoulders back and your heart forward keeping your head a natural extension of your spine and your shoulders rolled down and away from your ears.  Begin to straighten your arms and lift your chest off the floor.  Press the tops of your thighs down firmly into the floor.  This is //Cobra//.  Little to no weight on your hands.  If your flexibility allows, you can straighten your arms all the way while maintaining the connection of the front of your pelvis and legs with the floor.",
@@ -48,7 +48,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/CobraFull.png"
+    "src": "/poses/CobraFull.png"
   },
   {
     "description": "Step your feet to the side to the length of your mat and wide apart.  Turn your toes out toward the corners, heels in.  Bend your knees directly over your toes and lower your hips into a squat at the same time.  Tuck your tailbone in slightly and press your hips forward as you draw your thighs back.  Pull your lower belly in and lift through your rib cage.  Keep your knees in line with your toes.  Soften your shoulders.",
@@ -65,7 +65,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Goddess_R.png"
+    "src": "/poses/Goddess_R.png"
   },
   {
     "description": "From a kneeling position on the floor (with a folded blanket to pad your knees, shins, and feet if necessary) the weight of the body is centered between your feet in a seated position.  If the buttocks don't comfortably rest on the floor, raise them on a block placed between the feet.  Make sure both sitting bones are evenly supported.  There is a thumb's-width space between the inner heels and the outer hips.  The thighs are rotated inward and the heads of the thigh-bones are pressed into the earth with the bases of your palms.  The hands rest on the lap or on the thighs.  The shoulder blades are firmed against the back ribs and the top of your sternum is lifted like a proud warrior.  The collarbones are widened as the shoulder blades release away from the ears.  The tailbone lengthens into the floor to anchor the back torso.",
@@ -82,7 +82,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Hero.png"
+    "src": "/poses/Hero.png"
   },
   {
     "description": "The body is in the standing position, with the feet together and rooted into the earth.  The weight of the body is evenly distributed on the four corners of the feet.  The pelvis is tucked.  The ribcage is lifted.  The neck is a natural extension of the spine and the chin is slightly tucked toward the sternum.  The shoulders are relaxed as they rotate back and down.  The arms at your sides.  The gaze is forward.",
@@ -104,7 +104,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/MountainArmsSide.png"
+    "src": "/poses/MountainArmsSide.png"
   },
   {
     "description": "The body is parallel to the earth.  The weight of the body is supported by straight arms and active toes.  The abdomen is pulled up toward the spine and the pelvis is tucked in.  The neck is a natural extension of the spine and the chin is slightly tucked.  The palms are flat and the elbows are close to the side body.  The joints are stacked with the wrists, elbows and shoulders in a straight line perpendicular to the earth.  The gaze follows the spine and the eyes are focused down.",
@@ -131,7 +131,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Plank.png"
+    "src": "/poses/Plank.png"
   },
   {
     "description": "From a standing position, one foot is rooted into the earth with the opposite heel rooted into the inner thigh with the toes pointing toward the earth.  The pelvis and the chin are tucked in.  The hands come together at the heart in prayer position.  The gaze is forward.",
@@ -153,7 +153,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/TreePrayer_L.png"
+    "src": "/poses/TreePrayer_L.png"
   },
   {
     "description": "From a standing position, the legs are in a wide stance with the feet aligned and flat on the earth.  The back foot is in a 60-degree angle toward the front.  The hips are squared.  The inner thighs are rotated toward each other.  The front knee is bent in a 90-degree angle directly above the ankle.  The arms extend up to the sky with the biceps by the ears.  The hands can be together or separated and facing each other with the fingers spread wide.  The ribcage is lifted and the pelvis tucked.  The gaze is forward.",
@@ -170,7 +170,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/WarriorI_L.png"
+    "src": "/poses/WarriorI_L.png"
   },
   {
     "description": "From a standing position, the legs are separated into a wide stance.  The front knee is bent in a 90-degree angle directly above the ankle.  The back leg is extended and straight with the outside edge of the back foot gripping the earth in a 60-degree angle toward the front.  The inner thighs are externally rotated away from each other.  The pelvis is tucked.  The ribcage is lifted.  The arms are extended out to the sides and are aligned with the shoulders in a straight line with the fingers reaching out as the shoulder blades squeeze together.  The gaze is toward the front fingers.",
@@ -187,7 +187,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/WarriorII_L.png"
+    "src": "/poses/WarriorII_L.png"
   },
   {
     "description": "From a standing position, one leg is rooted and perpendicular to the earth while the other leg is raised, extended back and parallel to the earth.  The head of the thighbone of the standing leg presses back toward the heel and is actively rooted into the earth.  The arms and the extended leg lengthen in opposing directions with Bandhas engaged.  The hips are squared and the tailbone presses firmly into the pelvis.  The arms, torso, and extended raised leg should be positioned relatively parallel to the floor.  The gaze is forward or down.",
@@ -214,7 +214,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/WarriorIII_L.png"
+    "src": "/poses/WarriorIII_L.png"
   },
   {
     "description": "Begin in seated position with your legs straight in front and hinge forward.  Wrap your index and middle fingers around your big toes.  Bend one knee and place the heel on the floor a few inches away from your opposite inner knee.  Press the back of your straight leg into the floor then hinge slightly forward.  Keep a strong hold of both big toes and pick up the leg of your bent knee.  You may need to lean your weight slightly over toward the straight leg.  Draw your elbow and shoulder back to bring your foot close to your ear and then root both sitting bones as much as possible.",
@@ -231,7 +231,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Archer_L.png"
+    "src": "/poses/Archer_L.png"
   },
   {
     "description": "From a standing position the heels come up and the arms are extended forward and parallel to the earth.  The fingers are together and the palms are facing down.  The knees are bent.  The pelvis is contracted under, the rib cage is lifted up and the chin is gently tucked toward the sternum.  Bandhas are engaged.  The gaze is to the front.",
@@ -248,7 +248,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Awkward.png"
+    "src": "/poses/Awkward.png"
   },
   {
     "description": "Start from //Corpse// pose.  Bring your hands overhead, interlace your fingers or catch the opposite wrist.  Extend your spine and keep your legs together.  With your glutes and hips connected to the floor, walk your feet and upper body to one side.  When your body becomes more flexible, arch a little more, keeping both hips on the floor.  Come back to center.",
@@ -265,7 +265,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Banana_L.png"
+    "src": "/poses/Banana_L.png"
   },
   {
     "description": "From //ChairTwist// pose, the lower arm reaches back around the legs as the upper arm wraps around the back and the fingers of the respective hands eventually meet and interlace.  One foot stays rooted into the earth and straightens while the opposite leg comes up with a bent knee.  Once you are standing upright extend the leg toward the sky.  The ribcage is lifted and the heart is open in the full expression of the pose.  The gaze is forward.",
@@ -282,7 +282,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/BirdOfParadiseRevolved_L.png"
+    "src": "/poses/BirdOfParadiseRevolved_L.png"
   },
   {
     "description": "From a supine position, on your back, the knees are bent slightly wider than the hips.  The ankles and shins track the knees in a 90-degree angle perpendicular to the earth.  The hands grip the inside sole of the flexed feet (if you have difficultly holding the feet loop a strap over each sole) and push the knees down, coaxing the thighs in toward the torso, lengthening the spine, releasing the tail bone toward the earth and extending the base of the skull away from the back of the neck.  The gaze is up toward the sky.",
@@ -299,7 +299,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/BlissfulBaby.png"
+    "src": "/poses/BlissfulBaby.png"
   },
   {
     "description": "Begin seated with your knees bent and feet flat on the floor, hands resting by your hips.  Keeping your spine straight, lean back slightly and lift your feet to table top, then straighten your legs.  Draw in your low back, lift your chest, and lengthen the front of your torso as you walk your index and middle (peace) fingers to your big toes.",
@@ -316,7 +316,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/BoatBind.png"
+    "src": "/poses/BoatBind.png"
   },
   {
     "description": "Begin seated with your knees bent and feet flat on the floor, hands resting by your hips.  Keeping your spine straight, lean back slightly and lift your feet to table top, then straighten your legs.  Draw in your low back, lift your chest, and lengthen the front of your torso.  Walk your hands behind your feet or ankles.  Continue straightening your legs as you pull them closer to your torso.",
@@ -333,7 +333,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/BoatBindOutsideEdge.png"
+    "src": "/poses/BoatBindOutsideEdge.png"
   },
   {
     "description": "From a seated position the hands are gripped around the back of the legs and the knees are bent in a 90-degree angle.  Both legs are pulled in toward the abdomen.  The core is engaged to maintain balance on the sits bones (be sure that the back does not round).  The front of the torso lengthens between the pubis and top of the sternum as the spine extends in both directions reaching up to the sky and rooting down to the earth.  The gaze is forward and Bandhas are engaged.",
@@ -350,7 +350,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/BoatHalf.png"
+    "src": "/poses/BoatHalf.png"
   },
   {
     "description": "From a seated position or //BoatFull// pose, lower yourself down to a hover.  Avoid letting your legs or upper back touch the ground.  Keep your belly drawn in.  Both legs are extended and the toes are activated.  The core is engaged to maintain balance on the sit bones.",
@@ -367,7 +367,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/BoatLow.png"
+    "src": "/poses/BoatLow.png"
   },
   {
     "description": "In sitting position, bend both knees and drop the knees to each side, opening the hips.  Bring the soles of the feet together and bring the heels as close to the groin as possible, keeping the knees close to the ground.  The hands may reach down and grasp and maneuver the feet so that the soles are facing upwards and the heels and little toes are connected.  The shoulders should be pulled back and no rounding of the spine.",
@@ -389,7 +389,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/BoundAngle.png"
+    "src": "/poses/BoundAngle.png"
   },
   {
     "description": "Bend both knees and pull your heels toward your pelvis.  Drop your knees out to the sides and press the soles of your feet together.  Bring your heels as close to your pelvis as possible and try to keep the outer edges of the feet firmly on the floor.  If you can, use your hands to open the soles of your feet upward.  Keeping the pose, begin to lengthen your spine up, hinge forward from your hips and keep your sit bones rooted.",
@@ -406,7 +406,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/BoundAngleForward.png"
+    "src": "/poses/BoundAngleForward.png"
   },
   {
     "description": "Bend both knees and pull your heels toward your pelvis.  Drop your knees out to the sides and press the soles of your feet together.  Bring your heels as close to your pelvis as possible and try to keep the outer edges of the feet firmly on the floor.  If you can, use your hands to open the soles of your feet upward.  Keeping the pose, begin to round your spine as to bring your forehead to touch your toes.  Keep your sit bones rooted.",
@@ -423,7 +423,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/BoundAngleII.png"
+    "src": "/poses/BoundAngleII.png"
   },
   {
     "description": "From a prone position with the abdomen on the earth, the hands grip the ankles (but not the tops of the feet) with knees no wider than the width of your hips.  The heels are lifted away from the buttocks and at the same time the thighs are lifted away from the earth working opposing forces as the heart center, hips and back open.  The gaze is forward.",
@@ -440,7 +440,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Bow.png"
+    "src": "/poses/Bow.png"
   },
   {
     "description": "Begin in a prone position and come into your //Sphinx//.  Bend one knee and reach your hand back to catch the edge of the same side foot.  Rotate your elbow out, then up, to allow your knuckles to face backwards and your elbow to point slightly toward the sky.  Once stable, catch the opposite foot with the other hand and do the same thing.  Maintain a firm grip on the toes and lift your chest, thighs, and chin.  Then take your gaze upward.",
@@ -457,7 +457,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/BowBigToeI.png"
+    "src": "/poses/BowBigToeI.png"
   },
   {
     "description": "Begin in your //BowBigToeI//.  Maintaining a firm grip on your toes, lower your feet until they touch the sides of your shoulders and breathe.  The elbows can shift forward to deepen the stretch.",
@@ -474,7 +474,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/BowBigToeII.png"
+    "src": "/poses/BowBigToeII.png"
   },
   {
     "description": "From //BoxNeutral//, extend one arm forward and the opposite leg toward the back, keep the neck in line with the spine.  Bend the top knee and bring the extended hand backwards to catch the foot or toes.  Start to lift the knee and chest higher to create an arch like a bow.",
@@ -491,7 +491,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/BowHalf_L.png"
+    "src": "/poses/BowHalf_L.png"
   },
   {
     "description": "Begin by lying flat on your stomach with your chin resting center and your hands resting at your sides.  Bend your knees.  Reach back with your hands and catch your outer ankles.  As you lift your heels up toward the sky, draw your thighs up, and press your ankles into your hands.  Lift your chest off the ground all at the same time.  Keep your grip and chest expansion as you roll to one side.",
@@ -508,7 +508,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/BowSide_L.png"
+    "src": "/poses/BowSide_L.png"
   },
   {
     "description": "From //BoxNeutral//, one arm extends under the body and stretches out in a perpendicular direction.  The opposite arm reaches straight forward while the forehead rest softly on the earth in the direction of the extended arm.  The gaze is to the side.",
@@ -525,7 +525,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/BoxHandToAnkle_L.png"
+    "src": "/poses/BoxHandToAnkle_L.png"
   },
   {
     "description": "From a kneeling position, the knees and arms form a box with the spine and neck in a neutral position.  The hips and shoulders are squared to the earth and the palms are rooted with the weight of the body equally distributed between the heel of the hands and the top of the knees.  The joints are stacked with the wrists, elbows and shoulders in a straight line.  The gaze is down.",
@@ -542,7 +542,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/BoxNeutral.png"
+    "src": "/poses/BoxNeutral.png"
   },
   {
     "description": "From a supine position, on your back, the hips are pressed up with the heels of the feet rooted into the earth close to the sits bones.  The toes are actively lifted and the pelvis tucked.  The thighs are parallel to the earth and the fingers are interlaced under the body with the ribcage lifted and the heart open.  The back of the neck rests on the earth.  The gaze is to the sky.",
@@ -564,7 +564,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Bridge.png"
+    "src": "/poses/Bridge.png"
   },
   {
     "description": "From //Bridge// pose, begin to extend one leg out in front, without dropping the hips.  If possible, bring the extended leg higher, toes pointing toward the sky.",
@@ -581,7 +581,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/BridgeLegUp_L.png"
+    "src": "/poses/BridgeLegUp_L.png"
   },
   {
     "description": "From a kneeling position the knees are hip width apart and the thighs are perpendicular to the earth.  The inner thighs are narrowed and rotated slightly inward with the buttocks engaged but not hardened.  The tailbone is tucked under but the hips do not puff forward.  The shins and tops of the feet are pressed firmly into the earth.  The ribcage is open, along with the heart center, but the lower front ribs do not protrude sharply toward the sky.  The lower back lifts the ribs away from the pelvis to keep the lower spine as long as possible.  The base of the palms are pressed firmly against the soles (or heels) of the feet and the fingers are pointed toward the toes.  The arms are extended straight and are turned slightly outward at the shoulder joint so the elbow creases face forward without squeezing the shoulder blades together.  The neck is in a relatively neutral position, neither flexed nor extended, or (for the advanced practitioners only) the head drops back.  Be careful not to strain your neck and harden your throat.  The gaze is either toward the sky or toward the earth, depending upon your flexibility.",
@@ -598,7 +598,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Camel.png"
+    "src": "/poses/Camel.png"
   },
   {
     "description": "From //BoxNeutral//, shift some weight to the palms.  The wrists, elbows and shoulders are in one line.  The abdomen is pulled in and up with the spine arched in a strong Cobra spine.  The crown of the head is toward the earth and the neck is relaxed.  The gaze is between the arms toward the belly.",
@@ -620,7 +620,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Cat.png"
+    "src": "/poses/Cat.png"
   },
   {
     "description": "From //BoxNeutral//, extend one foot toward the back, knee is straight, hips squared to the floor.  Slowly extend the opposite arm forward, keep the hand and neck in line with the spine.",
@@ -642,7 +642,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/CatBalance_L.png"
+    "src": "/poses/CatBalance_L.png"
   },
   {
     "description": "From //Chair//, sit to your lowest point by shifting your weight into your heels.  Bring your palms to touch overhead and take your eye gaze to your thumbs.  Your heart and ribcage is lifted and your tailbone is rooted downward.",
@@ -659,7 +659,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/ChairLookingUp.png"
+    "src": "/poses/ChairLookingUp.png"
   },
   {
     "description": "From //ChairPrayer//, the upper body twists to one side with the heart opening toward the sky.  The bottom elbow is on the outside of the opposite knee and the upper elbow reaches toward the sky.  Gaze is toward the sky or to the earth if the neck is sensitive.",
@@ -676,7 +676,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/ChairTwist_L.png"
+    "src": "/poses/ChairTwist_L.png"
   },
   {
     "description": "From //ChairTwist//, the lower arm weaves in between the legs as the upper arm wraps around the back and the fingers interlace.  The ribcage is lifted.  The gaze toward the sky, unless it hurts your neck, then the gaze toward the earth.",
@@ -693,7 +693,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/ChairTwistBind_L.png"
+    "src": "/poses/ChairTwistBind_L.png"
   },
   {
     "description": "From //ChairTwistBind//, one foot stays rooted into the earth and straightens while the opposite leg comes up with a bent knee.  Once you are standing upright extend the leg toward the sky.  The ribcage is lifted and the heart is open in the full expression of the pose.  The gaze is forward.",
@@ -710,7 +710,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/ChairTwistBindUp_L.png"
+    "src": "/poses/ChairTwistBindUp_L.png"
   },
   {
     "description": "From //ChairTwist//, one arm reaches up to the sky and the other reaches down to the earth on the inside or the outside of the knee, depending upon your flexibility.  Keep the shoulder blades squeezed together and the fingers extended out.  The ribcage is lifted and the heart is open.  The gaze is toward the sky, unless it hurts your neck, then the gaze is toward the earth.",
@@ -727,7 +727,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/ChairTwistExtended_L.png"
+    "src": "/poses/ChairTwistExtended_L.png"
   },
   {
     "description": "From a kneeling position, the toes and knees are together with most of the weight of the body resting on the heels of the feet.  The arms extend to the front with the fingers spread wide.  The forehead rest softly onto the earth.  The gaze is down and inward.",
@@ -744,7 +744,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Child.png"
+    "src": "/poses/Child.png"
   },
   {
     "description": "From a kneeling position, the toes and knees are together with most of the weight of the body resting on the heels of the feet.  The arms are extended back resting alongside the legs.  The forehead rests softly onto the earth.  The gaze is down and inward.",
@@ -761,7 +761,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/ChildTraditional.png"
+    "src": "/poses/ChildTraditional.png"
   },
   {
     "description": "From //ChildTraditional//, the knees are open wide and the big toes are touching with most of the weight of the body on the heels of the feet.  The forehead rests softly onto the earth.  The arms extend to the front with the fingers spread wide.  The gaze is down and inward.",
@@ -783,7 +783,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/ChildWide.png"
+    "src": "/poses/ChildWide.png"
   },
   {
     "description": "Begin in //BoxNeutral//.  Lift one leg in the air.  Curl your toes of the grounded leg.  Bend your elbows into a strong, narrow push-up position.  Drop your chin, the front of your shoulders and chest to the ground and begin to straighten your bottom leg to send your hips higher at the same time.  Lift off by taking a tiny hop with your bottom leg.  As your bottom leg lifts to meet the top, bring both straight legs together in the air and squeeze your thighs together.  Keep a small arch in your back.",
@@ -800,7 +800,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/ChinStand.png"
+    "src": "/poses/ChinStand.png"
   },
   {
     "description": "From a prone position lying on the earth the pelvic bowl is firmly contracted interiorly toward the center line of the body while the pubis is tucked under.  The legs are extended back and the tops of the feet are squared to the earth.  The palms are flat and the fingers are in line with the shoulder blades, or, if possible, the palms are tucked under the shoulders with the elbows bent and tucked into the sides of the body.  On an inhalation, the arms are straightened slightly, maintaining a soft bend in the elbows as the chest lifts off the earth.  Lift up only to the height that is comfortable and that also maintains the pubis and the legs pressed to the earth.  Work the opposing forces by pressing the tailbone toward the pubis as the pubis lifts toward the navel.  The hip points are narrowed.  The buttocks are firm but not hardened.  The shoulder blades are firm against the back.  The side ribs expand to facilitate the backbend.  Lift through the top of the sternum but avoid pushing the front ribs forward, which only hardens the lower back.  Distribute the backbend evenly throughout the entire spine.  The gaze is out in front or straight ahead depending on flexibility.",
@@ -817,7 +817,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Cobra.png"
+    "src": "/poses/Cobra.png"
   },
   {
     "description": "Begin by lying flat on your belly.  Place your palms directly under your shoulders and spread your fingers wide.  Roll your shoulder blades down your back toward your hips while you squeeze your elbows in toward your ribcage.  Spread your legs so your knees reach toward the edges of the mat.  Begin to press into your hands and straighten your arms to lift your torso off the mat.  Keep your arms by your rib cage and your shoulders rolled away from your ears.  Reach your head high and then take the crown of your head up and back.  Bend your knees and take your toes toward your head.",
@@ -834,7 +834,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/CobraKing.png"
+    "src": "/poses/CobraKing.png"
   },
   {
     "description": "The body rests on the earth in a supine position with the arms resting by the side body.  The palms are relaxed and open toward the sky.  The shoulder blades are pulled back, down and rolled under comfortably, resting evenly on the earth.  The legs are extended down and splayed open.  The heels are in and the toes flop out.  The eyes are closed.  Everything is relaxed.  The gaze is inward.",
@@ -856,7 +856,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Corpse.png"
+    "src": "/poses/Corpse.png"
   },
   {
     "description": "From a supine position, with the back relaxed onto the earth, the legs extend toward the sky without any tension behind the knees.  The arms rest by the side body and the palms open toward the sky in a receptive mode.  Hold this position or gently sway the legs from side to side.  The eyes are closed and the gaze is inward.",
@@ -878,7 +878,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/CorpseDoubleLegRaise.png"
+    "src": "/poses/CorpseDoubleLegRaise.png"
   },
   {
     "description": "From a prone position with the pelvis tucked under, the body is relaxed and lying facedown onto the earth.  The forehead rests softly on the earth with the arms by the side body and the palms pressed down.  The hips are squared to the earth and the knees and ankles are touching.  The tops of the feet are relaxed and the big toes are connected.  The gaze is inward and toward the earth.",
@@ -895,7 +895,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/CorpseFront.png"
+    "src": "/poses/CorpseFront.png"
   },
   {
     "description": "From a prone position, relax down onto your belly, legs extended straight back.  Forehead and chin are centered allowing for a neutral neck and spine.  Extend your arms overhead, palms facing down.",
@@ -912,7 +912,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/CorpseFrontArmsForward.png"
+    "src": "/poses/CorpseFrontArmsForward.png"
   },
   {
     "description": "Lie all the way down onto your belly and extend your legs straight back.  Widen out your elbows and bring your hands in prayer.  Rest your Third Eye Center, the space between your eyes, on your prayer palms.  Relax your neck, belly, glutes and legs.  Allow your heels to soften to the sides.  Rest and breathe.",
@@ -929,7 +929,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/CorpseFrontPrayer.png"
+    "src": "/poses/CorpseFrontPrayer.png"
   },
   {
     "description": "Come to a squatting position with both feet together.  Separate your knees but keep your feet together.  Spread your fingers wide and press your palms and fingertips into the mat.  Come up high on your toes and lift your hips as high as possible.  Keeping straight arms, place your knees up into your arm pits, engage your core and begin to hinge forward.  Once your toes lift off the ground, find your balance and pull your heels up close to your sit bones.  Keep your chin lifted and gaze slightly forward on the ground.\\n\\nThis pose is similar to //Crow//, with the exception that the arms are straight and the knees are closer to the armpits.",
@@ -946,7 +946,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Crane.png"
+    "src": "/poses/Crane.png"
   },
   {
     "description": "Begin in //Crow// or //Crane// and place one inner thigh to the outside of the same side upper arm.  Extend the leg forward and continue to hug the opposite heel up and in.  Press the earth away and straighten both arms as much as possible.\\n\\nAlternatevely begin in //LungeHandsOnMat// and tuck your arm under the front leg bringing the thigh as high up as possible toward your shoulder.  Hop your back foot in and place your knee on the back of your opposite triceps as if you were coming into //Crow//.  Drop your hips and take your eye gaze forward.  Straighten your front leg, shift forward into your palms and hug your back heel up and in.  Squeeze your legs into your arms to stay engaged.\\n\\nThe eye gaze is down and slightly forward.",
@@ -968,7 +968,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/CraneOneLegged_L.png"
+    "src": "/poses/CraneOneLegged_L.png"
   },
   {
     "description": "From //MountainSalute// pose, extend upwards toward the sky as you bend to one side, lengthening the opposite side of the rib cage and stretch.",
@@ -990,7 +990,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/CrescentMoon_L.png"
+    "src": "/poses/CrescentMoon_L.png"
   },
   {
     "description": "Come to a squatting position with both feet together.  Separate your knees but keep your feet together.  Spread your fingers wide and press your palms and fingertips into the mat.  Come up high on your toes and lift your hips as high as possible.  As you shift the weight of your body slightly forward, bend your arms and place your knees on top of your elbows.  Continue shifting forward until your toes lift up and the full weight of the body is on your arms.  The gaze is down and slightly forward.\\n\\nThis pose is similar to //Crane//, with the exception that the arms are bent at a 90-degree angle and the knees are resting on the elbows.",
@@ -1007,7 +1007,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Crow.png"
+    "src": "/poses/Crow.png"
   },
   {
     "description": "From //Crow//, one leg lifts up and extends back as the chin lifts and reaches forward.  The gaze is down and slightly forward.",
@@ -1029,7 +1029,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/CrowFlying_L.png"
+    "src": "/poses/CrowFlying_L.png"
   },
   {
     "description": "Start from //CrowSidePreparation// and lean forward.  Bend the elbows, placing the hips and knees on top of the arms.  Lift the chin up and look forward.  Shift more weight onto the arms and tip over, take one foot and then the other off the floor.",
@@ -1046,7 +1046,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/CrowSide_L.png"
+    "src": "/poses/CrowSide_L.png"
   },
   {
     "description": "Start from //CrowSidePreparation// and lean forward.  Bend the elbows, placing the hips and knees on top of the arms.  Lift the chin up and look forward.  Shift more weight onto the arms and tip over, take the feet off the floor and straighten the legs.",
@@ -1063,7 +1063,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/CrowSideExtended_L.png"
+    "src": "/poses/CrowSideExtended_L.png"
   },
   {
     "description": "From a supine position, the feet come over the head and rest on the earth with the knees next to the ears and the arms extended behind the body with the fingers interlaced.  The neck is flat on the earth.  The eyes are closed.  The gaze is inward.  Take three big gulps to stimulate the thyroid.",
@@ -1080,7 +1080,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/DeafMan.png"
+    "src": "/poses/DeafMan.png"
   },
   {
     "description": "From BoxNeutral, the ribcage is lifted with a gentle sway in the low back.  The tailbone lifts up into dog tilt.  The eyes are soft and the gaze is to the sky.",
@@ -1097,7 +1097,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Dog.png"
+    "src": "/poses/Dog.png"
   },
   {
     "description": "From //DownwardDog//, the forearms are planted onto the earth with the elbows narrow and the palms down in a //Sphinx// position.  The pelvis is tucked.  The ribcage lifted.  The feet are rooted and the legs are straight with the tailbone in dog tilt.  The gaze is down and slightly forward",
@@ -1119,7 +1119,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Dolphin.png"
+    "src": "/poses/Dolphin.png"
   },
   {
     "description": "The body is positioned in an inverted \\\"V\\\" with the palms and feet rooted into the earth and sits bones lifted up toward the sky.  The arms and legs are straight.  The weight of the body is equally distributed between the hands and the feet.  The eye of the elbows face forward.  The ribcage is lifted and the heart is open.  Shoulders are squared to the earth and rotated back, down and inward.  The neck is relaxed and the crown of the head is toward the earth.  The gaze is down and slightly forward.",
@@ -1136,7 +1136,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/DownwardDog.png"
+    "src": "/poses/DownwardDog.png"
   },
   {
     "description": "From //DownwardDog//, the legs are straight with the sits bones tilted up and reaching for the sky.  The feet are flat with the heels firmly rooted.  One palm is flat with the knuckles evenly pressed into the earth.  The other hand reaches under the body and grasps the opposite ankle.  The spine is long and the heart is open toward the sky.  The neck is loose and the crown of the head is toward the earth.  The gaze is toward the center.",
@@ -1153,7 +1153,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/DownwardDogHandToAnkle_L.png"
+    "src": "/poses/DownwardDogHandToAnkle_L.png"
   },
   {
     "description": "From //DownwardDog//, one foot extends up to the sky while the opposite foot is rooted into the earth.  The hips are squared and the toes are active.  The forehead reaches for the earth as the shoulder blades rotate inward.  The gaze is toward the back.",
@@ -1170,7 +1170,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/DownwardDogLegUp_L.png"
+    "src": "/poses/DownwardDogLegUp_L.png"
   },
   {
     "description": "Come into your //LotusFull// and walk your hands forward, roll over the knees and lie all the way down onto your belly.  Extend your arms forward and rest your forehead or chin on the ground.",
@@ -1187,7 +1187,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/DownwardFish.png"
+    "src": "/poses/DownwardFish.png"
   },
   {
     "description": "Come into your //LotusFull//.  Shift your weight forward onto your knees and ground your forearms shoulder width apart, fingers spread wide.  Engage your core and press your forearms into the ground to lift off.  Bring your knees upward to the back of your arms.  Keep rounding your upper back and press your spine upward to stay engaged.",
@@ -1204,7 +1204,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/Duck.png"
+    "src": "/poses/Duck.png"
   },
   {
     "description": "From a standing position the one thigh is crossed over the other with the toes and/or the ankle hooked behind the lower calf.  The weight of the body is balanced on the standing foot.  The arms are crossed in front of the torso so that one arm is crossed above the other arm.  The top arm is tucked into the elbow crook of the bottom arm.  The hands are hooked around each other as well.  Once hooked, the elbows lift up and the fingers stretch toward the sky.  The gaze is soft and forward.",
@@ -1221,7 +1221,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Eagle_L.png"
+    "src": "/poses/Eagle_L.png"
   },
   {
     "description": "From a seated position, bring your knees into a simple cross legged pose.  Both knees should be below the hips.  Place the hands on the thighs or knees and keep the spine straight.",
@@ -1238,7 +1238,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Easy.png"
+    "src": "/poses/Easy.png"
   },
   {
     "description": "From your //Easy//, walk your hands forward.  Allow your back to round and your head and arms to relax out in front of you.  Purposefully send your sit bones toward the ground.  Repeat with the opposite shin crossed in front.",
@@ -1255,7 +1255,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/EasyForward.png"
+    "src": "/poses/EasyForward.png"
   },
   {
     "description": "From //Easy//, take a twist.  Place one palm on the ground behind your hip bone and the other across your body to the outside of the opposite knee.  Sit up straight and initiate a twist from the belly, press into your grounded hand, gaze over your back shoulder.",
@@ -1272,7 +1272,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/EasyTwist_L.png"
+    "src": "/poses/EasyTwist_L.png"
   },
   {
     "description": "Begin in //Easy// pose, lift one knee up and make a shelf with the respective arm.  Slip the shoulder underneath this knee until the knee rests high up on the back of the shoulder.  Bend both elbows to a 90-degree angle and lean forward.  Bring the other foot over to meet the first and hook the feet.   Lean slightly toward the opposite side to place more weight on the corresponding side and begin to lift both feet off the ground.  Extend both legs simultaneously leaning your torso forward and lowering it until it is parallel to the mat.  Squeeze your upper arm between your thighs.  Use that pressure to help twist your torso to the opposite side.  Keep your elbows in close to the torso.  Gaze is toward the ground.",
@@ -1289,7 +1289,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/EightAngle_L.png"
+    "src": "/poses/EightAngle_L.png"
   },
   {
     "description": "Begin in //BoxNeutral// position on hand and knees.  Shift your shoulders and heart forward beyond your fingertips and lower just your chest and chin to the ground.  Keep your elbows narrow and in at your side with your tailbone lifting toward the sky.  Press down firmly through your palms and fingertips, keeping your shoulder heads lifted as you continue to soften the place between your shoulder blades.",
@@ -1311,7 +1311,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/EightPoint.png"
+    "src": "/poses/EightPoint.png"
   },
   {
     "description": "Begin in //Cradle// by bringing the knee and foot into the creases of your elbows.  Release your foot, keep it lifted and send it forward.  At the same time, thread the arm that is closest to your knee thru to create a trunk with the leg as high up on your shoulder as possible.  Ground your palms evenly in line with your shoulders and sit up straight.  Energize through your straight leg.  Hinge your chest forward slightly for leverage, press into your palms, straighten your arms, engage your core and lift your body off the ground.  Hold for a few breaths and repeat on the opposite side.",
@@ -1328,7 +1328,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/ElephantTrunk_L.png"
+    "src": "/poses/ElephantTrunk_L.png"
   },
   {
     "description": "Begin in //ShoulderstandSupported//.  Without dropping your hips and with or without using your hands, bring your legs into Lotus legs in the sky.  Keep broadening your neck to maintain a proud base.  Balancing on your shoulders and neck, bring your Lotus legs toward your chest.  Wrap your arms around the outside of your legs and clasp your hands together.  Move your knees down on either side of your head and softly curl into an embryo shape.",
@@ -1345,7 +1345,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/Embryo.png"
+    "src": "/poses/Embryo.png"
   },
   {
     "description": "Come into your //LotusFull//.  Shift your hips back slightly and thread your hands and arms through your Lotus legs between your thighs and calves.  Press your Lotus legs toward your chest.  Come into balance on your sit bones and bring your palms to your face.",
@@ -1362,7 +1362,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/EmbryoWomb.png"
+    "src": "/poses/EmbryoWomb.png"
   },
   {
     "description": "The front knee is bent in a 90-degree angle directly above the ankle and the back knee is resting on the earth with the toes curled.  The hips are squared and pressed forward.  The tailbone is rooted downward and the ribcage is lifted.  The arms are on either side of the front foot for balance.  The head and gaze is lifted.",
@@ -1379,7 +1379,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Equestrian_L.png"
+    "src": "/poses/Equestrian_L.png"
   },
   {
     "description": "Begin in //PlankLegUp// or //DownwardDogLegUp//.  Bend the knee of your lifted leg, tuck it in toward your chest then thread it under and through toward your opposite hand.  Straighten the threaded leg, shift your weight to your grounding hand and lift your opposite arm to the sky.  At the same time, lift your hips and chest upwards.  Keep a straight and stable grounding arm from palm, wrist to shoulder.  Spread your legs as wide apart as possible to form a big X shape with your body and try to press your feet flat.  Take your gaze to your hand in the sky.",
@@ -1396,7 +1396,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/FallenTriangle_L.png"
+    "src": "/poses/FallenTriangle_L.png"
   },
   {
     "description": "From an inverted position, with the body perpendicular to the earth, the weight of the body is supported on the forearms that are parallel and pressed firmly into the earth.  The palms are flat.  The knuckles are evenly pressed into the earth.  The fingers are spread wide.  Both legs reach up toward the sky in a straight line with the pelvis tucked.  The ribcage is lifted.  The gaze is forward.",
@@ -1413,7 +1413,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/FeatheredPeacock.png"
+    "src": "/poses/FeatheredPeacock.png"
   },
   {
     "description": "Begin in //Mountain// and lift one leg to a table top position while keeping your opposite foot rooted on the earth.  Outer rotate the knee of your floating leg and place your ankle on top of the opposite thigh, above your knee.  You can use your hands to slide your shin closer up.  Begin to shift your weight back as if you are sitting in a chair and send some weight to the heel of your grounding foot.  Flex the foot of your crossed ankle and keep outer rotating your knee as you hinge your hips back deeper.  Keep your chest lifted.  Hands can come to your heart and find a focal point to gaze at.",
@@ -1430,7 +1430,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/FigureFour_L.png"
+    "src": "/poses/FigureFour_L.png"
   },
   {
     "description": "From a seated position, stack both shins on top of each other until they are parallel to the front edge of the mat.",
@@ -1447,7 +1447,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/FireLog_L.png"
+    "src": "/poses/FireLog_L.png"
   },
   {
     "description": "From your //FireLog//, keep a flat back and begin to hinge forward into the stretch.  Walk your hands as far out as possible while keeping your sit bones rooted.",
@@ -1464,7 +1464,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/FireLogForward_L.png"
+    "src": "/poses/FireLogForward_L.png"
   },
   {
     "description": "The arms are straight and the palms are pressed into the earth.  The body is supported on the straight arms with the eye of the elbows to the front.  The legs are extended straight and forward from on the outside of the arms.  The ribcage is lifted.  The gaze is forward.",
@@ -1481,7 +1481,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/Firefly.png"
+    "src": "/poses/Firefly.png"
   },
   {
     "description": "From //FishPreparation//, extend your arms forward with palms to touch in prayer and lift the legs.  The toes are engaged.  The gaze is either up toward the sky or to the back of room, depending on your flexibility.",
@@ -1498,7 +1498,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/Fish.png"
+    "src": "/poses/Fish.png"
   },
   {
     "description": "Begin seated in //LotusFull// or //LotusHalf// and lean back to your forearms.  Lift your chest to create an arch in your upper back.  Drop the crown of your head to the floor.  Keep your hands on your feet or rest them by your side.",
@@ -1515,7 +1515,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/FishLotus.png"
+    "src": "/poses/FishLotus.png"
   },
   {
     "description": "Begin in a seated position with your knees bent out in front of you.  Drop your forearms behind you, palms down, fingertips forward and begin to lean back.  Press your shoulder blades together and slide your glutes back toward the tops of your hands.  Once you feel safe, drop the crown of your head onto the ground and gaze behind you.  Stay on the crown of your head and lift your chest toward the sky.  Keep bent knees or walk one leg at a time out in front of you and keep them engaged.",
@@ -1532,7 +1532,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/FishPreparation.png"
+    "src": "/poses/FishPreparation.png"
   },
   {
     "description": "Begin in a seated position with your legs straight and place your hands on the ground at mid-thigh.  Spread your fingers wide and actively ground your hands down.  Seal your legs together and energize your legs to your toes.  Hinge your chest slightly forward, engage your core and lift your hips up.  Straighten your arms and maintain your core engagement.  Shift your hips back slightly through your arms to find your center of gravity.",
@@ -1554,7 +1554,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/FloatingStick.png"
+    "src": "/poses/FloatingStick.png"
   },
   {
     "description": "Starting from //DownwardDog// pose, bend both elbows to a 90-degree angle then cross one leg over the opposite elbow and extend the leg.  The other leg is extended back either balanced on the toes or suspended in flight with active toes.  The body is parallel to the earth.  The gaze is to the front.",
@@ -1571,7 +1571,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/FlyingManRevolved_L.png"
+    "src": "/poses/FlyingManRevolved_L.png"
   },
   {
     "description": "Begin in a seated position.  Bend one knee and externally rotate it out to the side, upward and back.  Hinge your head slightly forward and place your lower leg, just above the ankle, behind your head, preferably at the crease of your neck.  Create more space by bringing the top of your shoulder and arm through then press your shoulder back to keep the leg in position.  Lift the chest, grow the spine tall and energize through the seated leg.  Bring your hands to meet in prayer.",
@@ -1588,7 +1588,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/FootBehindHead_L.png"
+    "src": "/poses/FootBehindHead_L.png"
   },
   {
     "description": "Begin in //FootBehindHead//.  Ground your palms by your hips.  Press into your palms, straighten your arms and lift your hips off the ground.  Extend through your straight leg and using your core, bring it to about 60 to 75 degrees from the ground toward your chin.",
@@ -1610,7 +1610,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/FootBehindHeadElevated_L.png"
+    "src": "/poses/FootBehindHeadElevated_L.png"
   },
   {
     "description": "Begin in //FootBehindHead//.  Hinge and fold forward over your straight leg.  Extend your chin to keep the leg secure behind the head.",
@@ -1632,7 +1632,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/FootBehindHeadForward_L.png"
+    "src": "/poses/FootBehindHeadForward_L.png"
   },
   {
     "description": "Begin in a seated position.  Bend one knee and externally rotate it out to the side, upward and back.  Hinge your head slightly forward and place your lower leg, just above the ankle, behind your head, preferably at the crease of your neck.  Create more space by bringing the top of your shoulder and arm through, pressing the shoulder back and keep the chin lifted to keep the leg in position. Keep the torso facing forward.  Bend the other knee and externally rotate it out to the side, upward and back using the same side hand to place the feet next to each other.  Drop your hand for balance and allow the feet to work their way closer together until the ankles are crossed.  Create more space by bringing the top of your opposite shoulder and arm through.  Once balanced, bring your hands to meet in prayer.",
@@ -1649,7 +1649,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/FootBehindHeadTwoLegged.png"
+    "src": "/poses/FootBehindHeadTwoLegged.png"
   },
   {
     "description": "Begin in //FootBehindHeadTwoLegged//.  Release your palms to the ground and place them alongside your hips.  Ground down into your palms, hinge slightly forward, straighten your arms and lift your hips.  Maintain a long spine and keep your chin lifted off your chest so the ankles stay secure.",
@@ -1666,7 +1666,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/FootBehindHeadTwoLeggedElevated.png"
+    "src": "/poses/FootBehindHeadTwoLeggedElevated.png"
   },
   {
     "description": "From a standing position, the body is folded over at the crease of the hip with the spine long.  The neck is relaxed and the crown of the head is toward the earth.  The feet are rooted into the earth with the toes actively lifted.  The spine is straight.  The ribcage is lifted.  The chest and the thighs are connected.  The sacrum lifts up toward the sky in dog tilt.  The fingertips are resting on the earth next to the toes.  The gaze is down or slightly forward.",
@@ -1683,7 +1683,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/ForwardBend.png"
+    "src": "/poses/ForwardBend.png"
   },
   {
     "description": "Begin by standing with your feet hip width apart.  Hinge forward from your hips with a long, flat back and fold your torso over your thighs.  Try to connect your chest to your thighs by hollowing out your lower belly.  Send your sit bones high, draw your knee caps up and relax your hamstrings.  Slide your index and middle fingers of each hand between the big toes and the second toes.  Then curl those fingers under and grip the big toes firmly, wrapping your thumbs around the other two fingers to secure the wrap.  Press your toes down against your fingers.",
@@ -1700,7 +1700,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/ForwardBendBigToe.png"
+    "src": "/poses/ForwardBendBigToe.png"
   },
   {
     "description": "From //ForwardBend//, walk your hands behind your ankles.  Continue to fold deeper by shifting your weight slightly forward into the toes and hug your elbows along-side or behind your calves.  Engage your quadriceps to soften the hamstrings, press your hands into your ankles, and point your tailbone upward to deepen the stretch.",
@@ -1717,7 +1717,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/ForwardBendBind.png"
+    "src": "/poses/ForwardBendBind.png"
   },
   {
     "description": "From a standing position, the body is folded over at the crease of the hip with the spine long.  The neck is relaxed and the crown of the head is toward the earth.  The feet are rooted into the earth.  The toes are actively lifted.  The spine is straight.  The ribcage is lifted.  The chest and the thighs are connected.  The sacrum lifts up toward the sky in dog tilt.  The fingers are interlaced behind the body and the palms are together.  The arms and elbows are straight.  The shoulder blades rotate toward each other as the hands move forward (away from the lower back).  The gaze is down and inward.",
@@ -1734,7 +1734,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/ForwardBendDeep.png"
+    "src": "/poses/ForwardBendDeep.png"
   },
   {
     "description": "From a standing position, the upper body is lifted up halfway with the feet rooted into the earth and the toes actively lifted.  The spine is straight.  The ribcage is lifted and connected to the thighs.  The neck is a natural extension of the spine.  The fingertips are next to the toes.  The gaze is down and slightly forward.",
@@ -1751,7 +1751,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/ForwardBendHalfWay.png"
+    "src": "/poses/ForwardBendHalfWay.png"
   },
   {
     "description": "Begin in a //ForwardBendHalfWay//, then heel toe your feet about hip-width apart.  Place one hand directly center, slightly in front of your feet, either onto your fingertips or palm flat.  Take a gentle bend in the same side leg if needed.  Extend your opposite arm into the sky and twist your torso upwards, gaze up.  Try to stack your shoulder blades and keep your hips squared to the front.",
@@ -1768,7 +1768,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/ForwardBendTwist_L.png"
+    "src": "/poses/ForwardBendTwist_L.png"
   },
   {
     "description": "From a prone position, the weight of the body is supported on the hands and the toes.  The body is approximately 5 inches above and parallel to the earth.  The abdomen is pulled up toward the spine.  The pelvis is tucked.  The palms are flat.  The elbows are close to the side body and bent in a 90-degree angle and inline with the wrists.  The toes are rooted into the earth as the heels push back.  The gaze is down.",
@@ -1785,7 +1785,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/FourLimbedStaff.png"
+    "src": "/poses/FourLimbedStaff.png"
   },
   {
     "description": "Begin from //ChildWide// pose.  Bring the hips and slide both hands forward at the same time, chest and forehead on the ground.  Hips can start high and then start to bring the hip in line with the knees.  Separate the feet as wide as the knees.",
@@ -1802,7 +1802,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Frog.png"
+    "src": "/poses/Frog.png"
   },
   {
     "description": "From //BowPreparation//, lift your chest upward.  Using your hands, press the soles of your feet down, heels closer to the hips.  If possible, rotate your knuckles forward and elbows toward the sky.  Press your shoulder blades to touch, and keep elongating the psoas and quadriceps by pressing your pubic bone down into the earth.",
@@ -1819,7 +1819,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/FrogTraditional.png"
+    "src": "/poses/FrogTraditional.png"
   },
   {
     "description": "From a squatting position the feet are as close together as possible (keep your heels on the floor if you can; otherwise, support them on a folded mat).  The thighs are slightly wider than the torso.  The torso is leaning gently forward and tucked snugly between the thighs.  The elbows are pressed against the inner knees and the palms are together in Anjali Mudra (Salutation Seal).  The knees resist the elbows to help lengthen the front torso.  The gaze is soft and forward.",
@@ -1841,7 +1841,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Garland.png"
+    "src": "/poses/Garland.png"
   },
   {
     "description": "From a squatting position the feet are as close together as possible (keep your heels on the floor if you can; otherwise, support them on a folded mat).  The thighs are slightly wider than the torso.  The torso is leaning gently forward and tucked snugly between the thighs.  The elbows are pressed against the inner knees and the palms are together in Anjali Mudra (Salutation Seal).  The knees resist the elbows to help lengthen the front torso.  The gaze is soft and forward.",
@@ -1863,7 +1863,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/GarlandSideways_L.png"
+    "src": "/poses/GarlandSideways_L.png"
   },
   {
     "description": "Begin in a kneeling position with your hips stacked over your knees.  Extend one leg out to the side.  Reach your arms overhead to create length and then extend your arms to the side toward your extended leg.  Allow your bottom hand to rest softly on your extended leg while you stabilize your core to extend through the opposite side.  Turn your torso upward and externally rotate your extended leg and toes.",
@@ -1880,7 +1880,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/Gate_L.png"
+    "src": "/poses/Gate_L.png"
   },
   {
     "description": "Begin in //BowPreparation//.  Rotate the knuckles of one hand so they face forward and the elbow is toward the sky.  Bend the knee as much as possible bringing the knee and sole of the foot as close to the ground as possible.  Extend the opposite leg straight into the sky.  Lift the chest and take your gaze upwards.  Repeat on the opposite side.",
@@ -1897,7 +1897,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/GherandaI_L.png"
+    "src": "/poses/GherandaI_L.png"
   },
   {
     "description": "Begin from an upright standing position with the feet parallel (about six inches apart) and the front of the thighs contracted to lift the kneecaps.  The body is bent forward from the crease of the hip joints with the legs completely straight and the torso parallel to the earth.  The index and middle fingers of each hand are wrapped between the big toes and the second toes.  Fingers and thumbs are curled around and under the big toes to firmly secure the wrap.  The toes press down against the fingers.  To fold deeper into the pose the sitting bones are lifted up toward the sky, the torso is pressed toward the thighs and the crown of the head is lowered toward the earth.  Depending on flexibility, the lower back hollows to a greater or lesser degree.  At the same time, without compressing the back of the neck, the sternum is lifted.  The forehead stays relaxed.  For the full extension of the pose the elbows bend out to the sides as the toes are pulled up.  This lengthens the front and sides of the torso.  For very long hamstrings, draw the forehead toward the shins.  For hamstrings that are short, it is better to focus on keeping the front torso long.  The gaze is down or toward the body.",
@@ -1914,7 +1914,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/Gorilla.png"
+    "src": "/poses/Gorilla.png"
   },
   {
     "description": "Begin in //FigureFourTwist//.  Sit a little deeper and be sure you have a strong side twist with the upper part of your arm connected to the sole of your flexed foot.  Stay in your figure four twist as you drop your hands flat to the ground.  Bend your elbows to about 90 degrees and shift your weight forward to lift the back foot off the floor.  Try to straighten your floating leg forward and gaze to the toes of your floating leg.",
@@ -1931,7 +1931,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/Grasshopper_L.png"
+    "src": "/poses/Grasshopper_L.png"
   },
   {
     "description": "Lie down on your belly and lift up onto one forearm.  Reach back with your opposite hand, bend the same side knee, heel inward and catch the top part of your foot.  If possible, rotate your knuckles forward and elbow toward the sky.  Square your chest back forward and stay strong in your supported forearm.  Keep elongating the psoas and quadricep by pressing your pubic bone down into the earth.",
@@ -1948,7 +1948,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/HalfFrogTraditional_L.png"
+    "src": "/poses/HalfFrogTraditional_L.png"
   },
   {
     "description": "From a standing position one leg is straight while the other is extended back parallel to the earth (or a little above parallel) and one hand is on the earth (beyond the little-toe side of the foot, about 12 inches) while the other hand is extended up toward the sky.  The shoulder blades are squeezed together and the fingers move outward in opposing directions.  The weight of the body is supported mostly by the standing leg while the bottom hand has very little weight on it but is used intelligently to regulate balance.  The upper torso is rotated open to the sky.  Both hips are externally rotated.  Energy is extended actively through the flexed toes to keep the raised leg strong.  The inner ankle of the standing foot is lifted strongly upward, as if drawing energy from the earth.  The sacrum and scapulae are firmly pressed against the back torso and lengthen the coccyx toward the raised foot.  The gaze is either up or down, depending on the condition of the neck.  If injured the gaze is down.",
@@ -1965,7 +1965,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/HalfMoon_L.png"
+    "src": "/poses/HalfMoon_L.png"
   },
   {
     "description": "From a standing position one leg is straight while the other is extended back parallel to the earth (or a little above parallel) and one hand is on the earth (beyond the little-toe side of the foot, about 12 inches) while the other hand reaches back to grasp the outside of the foot or ankle of the raised leg.  The shoulder blades are squeezed together.  The weight of the body is supported mostly by the standing leg while the bottom hand has very little weight on it but is used perceptively to maintain balance.  The upper torso is rotated open to the sky.  Both hips are externally rotated.  Energy is extended actively through the flexed toes to keep the raised leg strong.  The inner ankle of the standing foot is lifted strongly upward, as if drawing energy from the earth.  The sacrum and scapulae are firmly pressed against the back torso and lengthen the coccyx toward the raised leg.  The gaze is either up or down, depending on the condition of the neck.  If the neck is injured, the gaze is down.",
@@ -1982,7 +1982,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/HalfMoonBound_L.png"
+    "src": "/poses/HalfMoonBound_L.png"
   },
   {
     "description": "Begin in a full bind around your grounded leg similar to //LungeBind//.  Keep your bind and shorten your stance by bringing your back leg closer to your grounded leg.  Gaze down to shift all the weight to your grounded leg and begin to lift your back leg up.  Once balanced, keep your hips open to the side, stack your top hip over your bottom hip as you would in //HalfMoon// pose and flex your floating foot.  Send your gaze up if you're feeling stable.",
@@ -1999,7 +1999,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/HalfMoonBoundHands_L.png"
+    "src": "/poses/HalfMoonBoundHands_L.png"
   },
   {
     "description": "From //HalfMoon//, slowly bring the top hand down to replace the bottom hand.  On the next inhalation, bring the opposite hand to the sky, twist the pelvis to the opposite side and stack the shoulders on top of each other.  Gaze is toward the sky and if not possible, gaze is downwards.",
@@ -2016,7 +2016,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/HalfMoonRevolved_L.png"
+    "src": "/poses/HalfMoonRevolved_L.png"
   },
   {
     "description": "Begin in a full bind around your grounded leg similar to //LungeTwistExtendedBound//.  Keep your bind and shorten your stance by bringing your back leg closer to your grounded leg.  Gaze down to shift all the weight to your grounded leg and begin to lift your back leg up.  Once balanced, activate your floating leg and toes like you would in //HalfMoonRevolved// pose.  Send your gaze up if you're feeling stable and try to straighten your grounded leg.",
@@ -2033,7 +2033,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/HalfMoonRevolvedBound_L.png"
+    "src": "/poses/HalfMoonRevolvedBound_L.png"
   },
   {
     "description": "In this inverted posture the weight of the body is on the hands - shoulder-width apart with fingers forward and parallel to each other (if the shoulders are tight, the index fingers are turned out slightly).  The shoulder blades are firm against the back torso and pulled up toward the tailbone.  The upper arms are rotated outward with the eye of the elbow to the front to keep the shoulder blades broad while the outer arms hug inward in opposing forces for balance and stability.  The palms are spread and the bases of the index fingers are pressed firmly against the earth.  Balance is maintained by keeping the Bandhas engaged while pressing the earth away with straight arms and flexed feet.  The gaze is down and forward.",
@@ -2050,7 +2050,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/Handstand.png"
+    "src": "/poses/Handstand.png"
   },
   {
     "description": "From //Handstand// the ribs move back, the shoulders shift down and away from the ears, the pelvis tucks under for balance as the knees bend and the feet drop toward the head.  The heart center goes forward while the crown of the head lifts up.  The gaze is down or forward depending on balance and flexibility.",
@@ -2067,7 +2067,7 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/HandstandScorpion.png"
+    "src": "/poses/HandstandScorpion.png"
   },
   {
     "description": "Sit on the floor with your legs straight in front of you.  Bend one knee and place the bottom of your heel as high as possible against the inner part of your opposite thigh.  Your extended leg and knee should be comfortably pressed on the floor and your bent knee will have an outer, upper rotation.  Center your chest and belly over your extended leg.  Grow your spine long and arms overhead, then fold over your straight leg as you hollow out your belly and pull your navel toward your spine.  Keep a long spine, reach for your ankle, foot or toes with your hands.  Take a bind by catching your wrist, wrap your hands around your foot, or rest your arms alongside your extended leg.",
@@ -2084,7 +2084,7 @@
       }
     ],
     "difficulty": "Beginner",
-    "src": "https://pocketyoga.com/assets/images/full/HeadToKnee_L.png"
+    "src": "/poses/HeadToKnee_L.png"
   },
   {
     "description": "Sit on the floor with your legs straight in front of you.  Bend one knee and place the bottom of your heel as high as possible against the inner part of your opposite thigh.  Take your palms alongside your body, slightly out in front of you, press in to the ground and lift your hips. With the hips lifted, place the floor of your perineum on top of your heel.  If you are more flexible, keep your foot flexed.  Center your chest and belly over your extended leg.  Grow your spine long and arms overhead, then fold over your straight leg as you hollow out your belly and pull your navel toward your spine.  Keep a long spine, reach for your ankle, foot or toes with your hands.  Take a bind by catching your wrist, wrap your hands around your foot, or rest your arms alongside your extended leg.",
@@ -2101,7 +2101,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/HeadToKneeII_L.png"
+    "src": "/poses/HeadToKneeII_L.png"
   },
   {
     "description": "Sit on the floor with your legs straight in front of you.  Bend one knee and place the bottom of your heel as high as possible against the inner part of your opposite thigh.  Prepare your foot by outer rotating the hip of your bent knee and rotate the ball mound of your foot onto the ground.  Place your palms behind you to pick up your hips and begin inching your hips forward until your heel is on top of your toes.  Center your chest and belly over your extended leg.  Grow your spine long and arms overhead, then fold over your straight leg as you hollow out your belly and pull your navel toward your spine.  Keep a long spine, reach for your ankle, foot or toes with your hands.  Take a bind by catching your wrist, wrap your hands around your foot, or rest your arms alongside your extended leg.",
@@ -2118,7 +2118,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/HeadToKneeIII_L.png"
+    "src": "/poses/HeadToKneeIII_L.png"
   },
   {
     "description": "Sit on the floor with your torso upright and your legs wide.  Bend one knee and snug the heel into the opposite groin of your extended leg.  Lift your arms up overhead then take a side bend stretch toward your extended leg.  Try to press your bottom shoulder against the inside of your extended knee.  When your knee is straight, twist your torso toward the sky.  Lift your opposite arm up, lean back slightly, and then, sweep it behind your ear and take hold of the outside edge of your extended foot.  Press your elbows away from each other, using them like a crank to help twist your upper torso further.  Turn your head to look at the sky.",
@@ -2135,7 +2135,7 @@
       }
     ],
     "difficulty": "Intermediate",
-    "src": "https://pocketyoga.com/assets/images/full/HeadToKneeRevolved_L.png"
+    "src": "/poses/HeadToKneeRevolved_L.png"
   },
   {
     "description": "In this inverted posture, the weight of the body is evenly balanced on the forearms that are narrow.  The fingers are interlaced (pinky fingers spooning).  The crown of the head is resting softly on the earth (only to regulate balance) between the interlaced fingers hugging the head in order to stabilize and protect the neck.  The shoulder blades are pressed against the back to widen the back as the tailbone continues to lift upward toward the heels.  The gaze is straight.",
@@ -2152,6 +2152,6 @@
       }
     ],
     "difficulty": "Expert",
-    "src": "https://pocketyoga.com/assets/images/full/HeadstandSupported.png"
+    "src": "/poses/HeadstandSupported.png"
   }
 ]

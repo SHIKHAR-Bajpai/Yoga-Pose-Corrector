@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import Loader from "@/components/ui/loader-one.jsx";
 import { jwtDecode } from 'jwt-decode';
+const API_URL = import.meta.env.VITE_API_URL;
 
 function FavoritePoses() {
   const [favorites, setFavorites] = useState([]);
@@ -18,7 +19,7 @@ function FavoritePoses() {
       const user_name = decoded_token.name;
       setName(user_name);
 
-      const response = await fetch(`http://localhost:5000/api/favorites/${user_id}`, {
+      const response = await fetch(`${API_URL}/api/favorites/${user_id}`, {
         headers: { Authorization: `Bearer ${token}` },
       });
       const data = await response.json();
@@ -32,7 +33,7 @@ function FavoritePoses() {
 
   const handleDelete = async (id) => {
     try {
-      await fetch(`http://localhost:5000/api/favorites/${id}`, {
+      await fetch(`${API_URL}/api/favorites/${id}`, {
         method: 'DELETE',
         headers: { Authorization: `Bearer ${token}` },
       });

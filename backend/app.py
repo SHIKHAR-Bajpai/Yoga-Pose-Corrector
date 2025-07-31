@@ -35,8 +35,8 @@ setup_chatbot(app)
 OUTPUT_WIDTH = 1270
 OUTPUT_HEIGHT = 720
 
-VIDEO_SOURCE = "./test_data/tree3.mp4"
-# VIDEO_SOURCE = 0
+# VIDEO_SOURCE = "./test_data/tree3.mp4"
+VIDEO_SOURCE = 0
 
 # Google OAuth config
 oauth.register(

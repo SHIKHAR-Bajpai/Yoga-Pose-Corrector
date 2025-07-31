@@ -1,5 +1,6 @@
 import { useState, useEffect } from 'react';
 import Loader from "@/components/ui/loader-one.jsx";
+const API_URL = import.meta.env.VITE_API_URL;
 
 const Form = () => {
   const [email, setEmail] = useState('');
@@ -14,7 +15,7 @@ const Form = () => {
     setError(null);
 
     try {
-      const response = await fetch('http://localhost:5000/login', {
+      const response = await fetch(`${API_URL}/login`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -40,7 +41,7 @@ const Form = () => {
   };
 
   const handleSocialLogin = (provider) => {
-        const backendUrl = `http://localhost:5000/login/${provider}`;
+        const backendUrl = `${API_URL}/login/${provider}`;
         window.location.href = backendUrl; 
     };
 

@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import working2 from "../assets/images/working-2.jpg"; 
 import Loader from "@/components/ui/loader-one.jsx"; 
+const API_URL = import.meta.env.VITE_API_URL;
 // import { useNavigate } from "react-router-dom";
 
 const HIGH_ACCURACY_THRESHOLD = 80;
@@ -34,7 +35,7 @@ const PoseChecker = () => {
 
   // --- Fetch available poses on mounting ---
   useEffect(() => {
-    fetch("http://localhost:5000/available_poses")
+    fetch(`${API_URL}/available_poses`)
       .then((res) => {
         if (!res.ok) {
           throw new Error(`HTTP error! status: ${res.status}`);
@@ -64,7 +65,7 @@ const PoseChecker = () => {
     if (userSelectedPoseName) {
       setSelectedPoseDetails({ imageUrl: null, youtubeUrl: null });
       try {
-        const res = await fetch(`http://localhost:5000/poses/${userSelectedPoseName}`);
+        const res = await fetch(`${API_URL}/poses/${userSelectedPoseName}`);
         if (!res.ok) {
           if (res.status === 404) {
             console.error(`Pose details not found for: ${userSelectedPoseName}`);
@@ -99,7 +100,7 @@ const PoseChecker = () => {
   useEffect(() => {
     let interval = null;
     const fetchFeedback = () => {
-      fetch("http://localhost:5000/pose_feedback")
+      fetch(`${API_URL}/pose_feedback`)
         .then((res) => {
           if (!res.ok) {
             if (res.status >= 400 || res.status === 0) { 
@@ -220,7 +221,7 @@ const PoseChecker = () => {
         return;
       }
 
-      const response = await fetch("http://localhost:5000/log_practice", {
+      const response = await fetch(`${API_URL}/log_practice`, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
@@ -272,7 +273,7 @@ const PoseChecker = () => {
 
     setUserSelectedPoseName(poseName);
     if (isStarted) {
-      fetch("http://localhost:5000/stop_camera")
+      fetch(`${API_URL}/stop_camera`)
         .then(() => {
           setVideoSrc("");
           setIsStarted(false);
@@ -301,7 +302,7 @@ const PoseChecker = () => {
       feedback: `Preparing for "${poseName}"...`,
     });
 
-    fetch("http://localhost:5000/select_pose", {
+    fetch(`${API_URL}/select_pose`, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
@@ -351,7 +352,7 @@ const PoseChecker = () => {
         return;
       }
       setIsCameraLoading(true); 
-      setVideoSrc("http://localhost:5000/video_feed"); 
+      setVideoSrc(`${API_URL}/video_feed`); 
       setIsStarted(true); 
       setPoseData((prev) => ({
         ...prev,
@@ -368,7 +369,7 @@ const PoseChecker = () => {
       }, 1500); 
 
     } else { 
-      fetch("http://localhost:5000/stop_camera")
+      fetch(`${API_URL}/stop_camera`)
         .then(() => {
           setVideoSrc("");
           setIsStarted(false);

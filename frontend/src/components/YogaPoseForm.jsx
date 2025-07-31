@@ -1,5 +1,6 @@
 import { useState, useEffect } from "react";
 import Loader from "@/components/ui/loader-one.jsx";
+const API_URL = import.meta.env.VITE_API_URL;
 
 const HealthForm = () => {
 
@@ -75,7 +76,7 @@ const HealthForm = () => {
           healthIssues: formData.healthIssues,
           experience_level: formData.experienceLevel,
         };
-        result = await fetchFormData( "http://localhost:5000/yoga_recommendations", yogaData );
+        result = await fetchFormData( `${API_URL}/yoga_recommendations`, yogaData );
         result.formType = "yoga";
       } else if (formType === "diet") {
         const dietData = {
@@ -90,7 +91,7 @@ const HealthForm = () => {
           activityLevel: formData.activityLevel,
         };
         result = await fetchFormData(
-          "http://localhost:5000/weekly_diet_plan",
+          `${API_URL}/weekly_diet_plan`,
           dietData
         );
         result.formType = "diet";

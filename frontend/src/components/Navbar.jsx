@@ -2,6 +2,7 @@ import { NavLink, useNavigate } from 'react-router-dom';
 import logo from '../assets/images/logo.png';
 import { useState, useEffect, useRef } from 'react';
 import { FaUserCircle } from 'react-icons/fa';
+const API_URL = import.meta.env.VITE_API_URL;
 
 function Navbar() {
   const [isUserMenuOpen, setIsUserMenuOpen] = useState(false);
@@ -15,7 +16,7 @@ function Navbar() {
     const fetchUser = async () => {
       if (!token) return;
       try {
-        const response = await fetch("http://localhost:5000/user", {
+        const response = await fetch(`${API_URL}/user`, {
           method: "GET",
           headers: {
             "Content-Type": "application/json",

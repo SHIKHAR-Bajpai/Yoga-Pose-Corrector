@@ -1,5 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import Loader from "@/components/ui/loader-one.jsx";
+const API_URL = import.meta.env.VITE_API_URL;
 
 function PoseModal({ pose, onClose, userId }) {
   const [isSaving, setIsSaving] = useState(false);
@@ -29,7 +30,7 @@ function PoseModal({ pose, onClose, userId }) {
 
     const checkIfSaved = async () => {
       try {
-        const response = await fetch(`http://localhost:5000/api/favorites/${userId}`, {
+        const response = await fetch(`${API_URL}/api/favorites/${userId}`, {
           headers: {
             "Authorization": `Bearer ${localStorage.getItem("authToken")}`,
           },
@@ -72,7 +73,7 @@ function PoseModal({ pose, onClose, userId }) {
     if (!pose) return;
     try {
       setIsSaving(true);
-      const response = await fetch("http://localhost:5000/api/favorites", {
+      const response = await fetch(`${API_URL}/api/favorites`, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
@@ -85,10 +86,10 @@ function PoseModal({ pose, onClose, userId }) {
         throw new Error("Failed to save pose");
       }
 
-      const resData = await response.json();
+      await response.json();
       setSaved(true);
 
-      const updatedFavorites = await fetch(`http://localhost:5000/api/favorites/${userId}`, {
+      const updatedFavorites = await fetch(`${API_URL}/api/favorites/${userId}`, {
         headers: {
           "Authorization": `Bearer ${localStorage.getItem("authToken")}`,
         },
@@ -110,7 +111,7 @@ function PoseModal({ pose, onClose, userId }) {
     if (!favoriteId) return;
     try {
       setIsRemoving(true);
-      const response = await fetch(`http://localhost:5000/api/favorites/${favoriteId}`, {
+      const response = await fetch(`${API_URL}/api/favorites/${favoriteId}`, {
         method: "DELETE",
         headers: {
           "Authorization": `Bearer ${localStorage.getItem("authToken")}`,

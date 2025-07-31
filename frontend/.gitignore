@@ -28,3 +28,6 @@ dist-ssr
 .tailwindcss-cache
 .env.local
 
+
+.env
+

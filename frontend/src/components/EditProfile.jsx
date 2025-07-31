@@ -1,6 +1,9 @@
 import { useState, useEffect } from 'react';
 import Loader from "@/components/ui/loader-one.jsx";
 import { useNavigate } from 'react-router-dom';
+const API_URL = import.meta.env.VITE_API_URL;
+
+console.log(API_URL);
 
 const ProfileEditForm = () => {
   const [name, setName] = useState('');
@@ -23,7 +26,7 @@ const ProfileEditForm = () => {
           return;
         }
 
-        const response = await fetch('http://localhost:5000/user', {
+        const response = await fetch(`${API_URL}/user`, {
           method: 'GET',
           headers: {
             'Content-Type': 'application/json',
@@ -71,7 +74,7 @@ const ProfileEditForm = () => {
       if (email) payload.email = email;
       if (password) payload.password = password; 
 
-      const response = await fetch('http://localhost:5000/user', {
+      const response = await fetch(`${API_URL}/user`, {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -110,7 +113,7 @@ const ProfileEditForm = () => {
           return;
         }
 
-        const response = await fetch('http://localhost:5000/user', {
+        const response = await fetch(`${API_URL}/user`, {
           method: 'DELETE',
           headers: {
             'Authorization': `Bearer ${token}`,
