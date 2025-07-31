@@ -17,7 +17,6 @@ model_training/
 .env
 
 # DB instances
-instance/
 
 # Migrations
 migrations/
